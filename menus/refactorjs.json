@@ -1,0 +1,26 @@
+{
+  "context-menu": {
+    "atom-text-editor": [
+      {
+        "label": "Toggle refactorjs",
+        "command": "refactorjs:toggle"
+      }
+    ]
+  },
+  "menu": [
+    {
+      "label": "Packages",
+      "submenu": [
+        {
+          "label": "refactorjs",
+          "submenu": [
+            {
+              "label": "Toggle",
+              "command": "refactorjs:toggle"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
