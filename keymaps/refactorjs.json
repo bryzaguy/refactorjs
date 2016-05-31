@@ -1,5 +1,8 @@
 {
   "atom-workspace": {
     "ctrl-alt-o": "refactorjs:toggle"
+  },
+  ".refactorjs": {
+    "cmd-enter": "refactorjs:commit"
   }
 }
