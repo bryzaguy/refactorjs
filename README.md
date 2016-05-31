@@ -1,5 +1,3 @@
 # refactorjs package
 
-A short description of your package.
-
-![A screenshot of your package](https://f.cloud.github.com/assets/69169/2290250/c35d867a-a017-11e3-86be-cd7c5bf3ff9b.gif)
+A refactoring tool for JavaScript.  Allows you to search and replace based on the AST inside of a document.  Click on the variable you want to refactor, press cmd-alt-R, change the name, press cmd-enter to finish.

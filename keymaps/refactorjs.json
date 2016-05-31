@@ -1,8 +1,11 @@
 {
   "atom-workspace": {
-    "ctrl-alt-o": "refactorjs:toggle"
+    "cmd-alt-r": "refactorjs:toggle"
   },
   ".refactorjs": {
-    "cmd-enter": "refactorjs:commit"
+    "cmd-enter": "refactorjs:commit",
+    "tab": "refactorjs:focus-next",
+    "shift-tab": "refactorjs:focus-next",
+    "escape": "refactorjs:hide"
   }
 }
